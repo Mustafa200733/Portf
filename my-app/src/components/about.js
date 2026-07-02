@@ -44,7 +44,7 @@ export default function createAbout() {
     children: [
       createElement("img", {
         className: "about-image",
-        attrs: { src: "/Overmij.png", alt: "Mustafa" },
+        attrs: { src: "/Mustafa.png", alt: "Mustafa" },
       }),
       createElement("p", {
         text: "Frontend student met focus op gebruiksvriendelijke UI.",

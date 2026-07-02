@@ -59,7 +59,7 @@ export default function createHome() {
   const image = createElement("img", {
     className: "hero-image",
     attrs: {
-      src: "/Overmij.png",
+      src: "/Homep.png",
       alt: "Mustafa aan het werk",
     },
   });

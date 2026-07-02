@@ -73,7 +73,7 @@ export default function createContact() {
     children: [
       createElement("img", {
         className: "contact-image",
-        attrs: { src: "/mail.png", alt: "Contact" },
+        attrs: { src: "/toetsenbord.png", alt: "Contact" },
       }),
       createElement("p", {
         text: "Ik reageer meestal binnen 24 uur op berichten via e-mail of LinkedIn.",
