@@ -2,14 +2,14 @@ const projects = [
   {
     id: 1,
     name: "Webshop",
-    description: "Dit is mijn webshop.",
+    description: "Dit is een webshop die ik vorig jaar heb gecodeerd.",
     image: "/Project.png",
     url: "https://webshop-au5v.onrender.com/login",
   },
   {
     id: 2,
     name: "Bread Company",
-    description: ".",
+    description: "Dit is een screenshot van een website voor een broodbedrijf die ik vorig jaar heb gecodeerd.",
     image: "/Breadcompany.png",
   },
   {
