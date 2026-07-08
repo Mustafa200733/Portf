@@ -8,9 +8,10 @@ const projects = [
   },
   {
     id: 2,
-    name: "Bread Company",
-    description: "Dit is een screenshot van een website voor een broodbedrijf die ik vorig jaar heb gecodeerd.",
-    image: "/Breadcompany.png",
+    name: " Velor",
+    description: "Dit is een restaurant app die ik afgelopen maand heb gecodeerd.",
+    image: "/Velor.png",
+    url: "https://lor-nvol.onrender.com",
   },
   {
     id: 3,
