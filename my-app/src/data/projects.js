@@ -9,7 +9,7 @@ const projects = [
   {
     id: 2,
     name: " Velor",
-    description: "Dit is een restaurant app die ik afgelopen maand heb gecodeerd.",
+    description: "Dit is een restaurantapp die ik afgelopen maand heb gecodeerd.",
     image: "/Velor.png",
     url: "https://lor-nvol.onrender.com",
   },
